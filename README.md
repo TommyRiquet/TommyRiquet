@@ -14,8 +14,7 @@
 - ♟  We can connect to play some games of Chess ♟
 - ⚡ Fun fact : School made me hate learning
 
-
-## 🛠️ My Skills
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="35px">  My Skills
 
 ### 👉 Programming languages
 
@@ -105,7 +104,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## <img src="https://jonmgomes.com/wp-content/uploads/2020/03/Network_Diagram_GIF_5_seconds_1.gif" width="45px">  Github Stats (Expand to View)
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -131,4 +130,17 @@
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/Neow_Off" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Neow_Off" height="30" width="30" /></a></p>
+<a href="https://discordapp.com/users/306449378929934337" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Neow" height="30" width="30" /></a>
+<a href="https://twitter.com/Neow_Off" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Twitter.svg" alt="Neow_Off" height="30" width="30" /></a>
+</p>
+
+<!--
+Source : 
+- https://media.giphy.com/
+- https://github.com/TheDudeThatCode/
+- https://img.shields.io/
+- https://jonmgomes.com/
+API:
+- https://github-readme-stats.vercel.app/
+- https://activity-graph.herokuapp.com/
+-->
