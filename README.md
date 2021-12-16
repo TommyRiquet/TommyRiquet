@@ -12,7 +12,7 @@
 - 💻 I use daily **.js**, **.py**
 - 💬 Talk to me about blockchains, cryptos & the futur of society
 - ♟  We can connect to play some games of Chess ♟
-- ⚡ Fun fact : School made me hate C
+- ⚡ Fun fact : School made me hate learning
 
 
 ## 🛠️ My Skills
