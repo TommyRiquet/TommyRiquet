@@ -12,7 +12,7 @@
 - 💻 I use daily **.js**, **.py**
 - 💬 Talk to me about blockchains, cryptos & the futur of society
 - ♟  We can connect to play some games of Chess ♟
-- ⚡ Fun fact : School made me hate learning
+- ⚡ Fun fact : School is useless
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="35px">  My Skills
 
