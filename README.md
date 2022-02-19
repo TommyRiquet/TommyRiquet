@@ -1,5 +1,5 @@
 <h1 align="center">
-      Hi, I'm Neøw <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+      Hi, I'm Tommy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1> 
 
 <p align ="center">
@@ -136,10 +136,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/ImNeow"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNeow&show_icons=true&locale=en&theme=algolia" alt="Neow" height="192px"/></a>
+    <a href="https://github.com/TommyRiquet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TommyRiquet&show_icons=true&locale=en&theme=algolia" alt="Neow" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImNeow&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Neow" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyRiquet&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tommy" height="192px"/>
 	</p>
   <br/>
   </p>
@@ -148,7 +148,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ImNeow"><img alt="Neow's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImNeow&custom_title=Neow's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/TommyRiquet"><img alt="Tommy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TommyRiquet&custom_title=Tommy's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
