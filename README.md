@@ -58,6 +58,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 &emsp; 
+<a href="https://www.w3schools.com/react/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
+  </a> 
+   &emsp;
+</p>
+
+### 👉 Backend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://expressjs.com/fr/" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="html5" width="40" height="40"/>
+  </a>   
+  &emsp;
+<a href="https://nodejs.org/en/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+&emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -76,13 +94,10 @@
 	   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 	</a>
 &emsp;
-   <a href="https://nodejs.org/en/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	</a>
+<a href="https://www.github.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
 &emsp;
-    <a href="https://www.github.com" target="_blank">
-	    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-	</a>
 </p>
   
 ### 👉Graphic Designing
