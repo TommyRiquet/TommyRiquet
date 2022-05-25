@@ -31,10 +31,6 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   &emsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
@@ -81,10 +77,6 @@
 ### 👉 Databases & Cloud Hosting
 
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/" target="_blank">
-	    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	</a>
   &emsp;
    <a href="https://mariadb.org/" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -136,10 +128,6 @@
 	    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 	</a>
  &emsp;
-    <a href="https://jupyter.org/" target="_blank">
-	    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-	</a>
- &emsp; 
 </p>
 
 <br/>
