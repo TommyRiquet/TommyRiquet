@@ -7,7 +7,7 @@
 - 🏦 I live in Belgium
 - 🧠 I like using React and Python
 - 💬 Talk to me about blockchains, cryptos & the futur of society
-- 🍕 I like pineapple on pizza
+- 🍕 I don't mind pineapple on pizza
 
 ### Skills
 <p align="left">
@@ -30,10 +30,10 @@
 
 <br/>
 
-## <img src="https://jonmgomes.com/wp-content/uploads/2020/03/Network_Diagram_GIF_5_seconds_1.gif" width="45px">  Github Stats (Expand to View)
+## <img src="https://jonmgomes.com/wp-content/uploads/2020/03/Network_Diagram_GIF_5_seconds_1.gif" width="45px">  Github Stats 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<p> 
+
   <br/>
   <p align="center">
     <a href="https://github.com/TommyRiquet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TommyRiquet&show_icons=true&locale=en&theme=algolia" alt="Neow" height="192px"/></a>
@@ -43,22 +43,12 @@
 	</p>
   <br/>
   </p>
-</details>
+</p>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/TommyRiquet"><img alt="Tommy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TommyRiquet&custom_title=Tommy's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
-<p align="center">
-<a href="https://discordapp.com/users/306449378929934337" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Neow" height="30" width="30" /></a>
-<a href="https://twitter.com/Neow_Off" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Twitter.svg" alt="Neow_Off" height="30" width="30" /></a>
-</p>
+
 
 <!--
 Source : 
