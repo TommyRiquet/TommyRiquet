@@ -30,25 +30,6 @@
 
 <br/>
 
-## <img src="https://jonmgomes.com/wp-content/uploads/2020/03/Network_Diagram_GIF_5_seconds_1.gif" width="45px">  Github Stats 
-
-<p> 
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/TommyRiquet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TommyRiquet&show_icons=true&locale=en&theme=algolia" alt="Neow" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyRiquet&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tommy" height="192px"/>
-	</p>
-  <br/>
-  </p>
-</p>
-
-
-<br/>
-
-
 
 <!--
 Source : 
