@@ -24,26 +24,7 @@
 </p>
 
 
-<br/>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommyRiquet&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TommyRiquet&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&hide=contribs,issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
-<a href="https://github.com/TommyRiquet/Dev3-GP11-Jaune2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TommyRiquet&repo=Dev3-GP11-Jaune2&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/TommyRiquet/ProjetIntegration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TommyRiquet&repo=ProjetIntegration&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
 
 
 <!--
