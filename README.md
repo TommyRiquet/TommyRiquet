@@ -1,8 +1,8 @@
 ```typescript
 Hi, I\'m Tommy 
 
-- 🏦 IT Student in Belgium
-- 🧠 Currently learning TypeScript and  CI/CD Pipelines
+- 🏦 Full Stack Developer in Belgium
+- 🧠 Currently learning Django and  CI/CD Pipelines
 - 💬 Complete Automation === so satisfying
 - 🍕 Unpopular opinion : I don't mind pineapple on pizza
 ```
@@ -35,4 +35,4 @@ Hi, I\'m Tommy
 <br/>
 <br/>
   
-###### Last Updated : 29 jul 2023</footer>
+###### Last Updated : 3 sep 2023</footer>
