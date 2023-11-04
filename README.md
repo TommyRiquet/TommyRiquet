@@ -2,7 +2,7 @@
 Hi, I\'m Tommy 
 
 - 🏦 Full Stack Developer in Belgium
-- 🧠 Currently learning Django and  CI/CD Pipelines
+- 🧠 Currently learning Django, After Effects and animations
 - 💬 Complete Automation === so satisfying
 - 🍕 Unpopular opinion : I don't mind pineapple on pizza
 ```
@@ -35,4 +35,4 @@ Hi, I\'m Tommy
 <br/>
 <br/>
   
-###### Last Updated : 3 sep 2023</footer>
+###### Last Updated : 4 nov 2023</footer>
