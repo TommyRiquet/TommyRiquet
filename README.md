@@ -1,10 +1,11 @@
-```typescript
+```javascript
 Hi, I\'m Tommy 
 
-- 🏦 Full Stack Developer in Belgium
-- 🧠 Currently learning Django, After Effects and animations
+- 🏦 Full Stack Developer
+- 🧠 Currently honing my Mobile Development skills and diving deep into mastering UX/UI for captivating interfaces.
 - 💬 Complete Automation === so satisfying
-- 🍕 Unpopular opinion : I don't mind pineapple on pizza
+- 🍕 Unpopular opinion => I don't mind pineapple on pizza
+- 📚 Lifelong learner
 ```
 
 #### Language and Tools
@@ -18,9 +19,10 @@ Hi, I\'m Tommy
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
 
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+<img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" alt="django" />
 
 
-<img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="mysql"/>
 
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="docker"/>
@@ -35,4 +37,4 @@ Hi, I\'m Tommy
 <br/>
 <br/>
   
-###### Last Updated : 4 nov 2023</footer>
+###### Last Updated : 11 may 2024</footer>
