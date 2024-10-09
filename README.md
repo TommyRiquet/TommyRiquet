@@ -2,7 +2,7 @@
 Hi, I\'m Tommy 
 
 - 🏦 Full Stack Developer
-- 🧠 Currently honing my Mobile Development skills and diving deep into mastering UX/UI for captivating interfaces.
+- 🧠 Currently honing my Mobile Development skills and diving deep into Django.
 - 💬 Complete Automation === so satisfying
 - 🍕 Unpopular opinion => I don't mind pineapple on pizza
 - 📚 Lifelong learner
@@ -37,4 +37,4 @@ Hi, I\'m Tommy
 <br/>
 <br/>
   
-###### Last Updated : 11 may 2024</footer>
+###### Last Updated : 09 oct 2024</footer>
