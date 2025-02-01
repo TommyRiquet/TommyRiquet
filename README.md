@@ -1,10 +1,9 @@
 ```javascript
 Hi, I\'m Tommy 
 
-- 🏦 Full Stack Developer
-- 🧠 Currently honing my Mobile Development skills and diving deep into Django.
+- 🏦 Full Stack Software Engineer
+- 🧠 Diving deep into Angular.
 - 💬 Complete Automation === so satisfying
-- 🍕 Unpopular opinion => I don't mind pineapple on pizza
 - 📚 Lifelong learner
 ```
 
@@ -16,6 +15,7 @@ Hi, I\'m Tommy
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript"/>
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript"/>
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg" alt="angular"/>
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
 
 <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
@@ -37,4 +37,4 @@ Hi, I\'m Tommy
 <br/>
 <br/>
   
-###### Last Updated : 09 oct 2024</footer>
+###### Last Updated : 01 Feb 2025</footer>
